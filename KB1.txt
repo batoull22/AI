@@ -1,0 +1,9 @@
+A.B→C 
+C.D→F 
+A.B→E 
+F.A→G
+G.F→B 
+A
+C
+D
+proof:E
